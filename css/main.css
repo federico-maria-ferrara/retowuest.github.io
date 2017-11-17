@@ -481,7 +481,7 @@ footer .theme-by {
   text-shadow: 1px 1px 3px #000;
 }
 .intro-header .page-heading h1 {
-  margin-top: 0;
+  margin-top: 100px;
   font-size: 50px;
 }
 .intro-header .post-heading h1 {
@@ -569,7 +569,7 @@ footer .theme-by {
     display: none;
   }
   .header-section.has-img .big-img {
-    margin-bottom: 100px;
+    margin-bottom: 0;
   }
 }
 @media only screen and (max-width: 325px) {

@@ -369,12 +369,18 @@ footer .theme-by {
   display: inline-block;
   width: 100%;
 }
-.post-entry {
+#sidebar {
+  border: 1px solid #ededed;
+  width: 32.8%;
+}
+#main {
   width: 62.4%;
+  margin-left: 40px;
+}
+.post-left {
   float: left;
 }
 .post-right {
-  width: 32.8%;
   float: right;
 }
 .post-image {

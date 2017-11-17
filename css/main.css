@@ -369,13 +369,13 @@ footer .theme-by {
   display: inline-block;
   width: 100%;
 }
-#sidebar {
-  border: 1px solid #ededed;
-  width: 32.8%;
-}
 #main {
   width: 62.4%;
   margin-left: 40px;
+}
+#sidebar {
+  border: 1px solid #ededed;
+  width: 32.8%;
 }
 .post-left {
   float: left;

@@ -369,8 +369,13 @@ footer .theme-by {
   display: inline-block;
   width: 100%;
 }
-.post-entry {
+.post-left {
   width: 62.4%;
+  float: left;
+}
+.post-right {
+  width: 32.8%;
+  float: right;
 }
 .post-image {
   float: right;

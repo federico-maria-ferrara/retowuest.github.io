@@ -12,8 +12,8 @@ baseurl: ""
 # url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
 
-# Of course don't forget to change the username and projectname to YOUR username
-# and project
+# Of course don't forget to change the username and projectname to YOUR
+# username and project
 
 # Name of website
 title: Reto Wüest
@@ -38,18 +38,19 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
 
-# If you want to have an image logo in the top-left corner instead of the title text,
-# then specify the following parameter
+# If you want to have an image logo in the top-left corner instead of the title
+# text, then specify the following parameter
 # title-img: /path/to/image
 
 # --- Background colour/image options --- #
 
-# By default, the navigation bar and footer have a light gray background, and the main page
-# has a white background. You can specify a different background colour or a background image
-# for the navigation bar, the main page, and the footer.
+# By default, the navigation bar and footer have a light gray background, and
+# the main page has a white background. You can specify a different background
+# colour or a background image for the navigation bar, the main page, and the
+# footer.
 # navbar-col: "orange"
 # navbar-img: "/img/bgimage.png"
-# footer-col: "blue"
+footer-col: "blue"
 # footer-img: "/img/bgimage.png"
 # page-col: "#FF0000"
 # page-img: "/img/bgimage.png"
@@ -102,9 +103,9 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -134,7 +135,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Zurich"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/

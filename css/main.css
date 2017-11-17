@@ -749,3 +749,29 @@ td.gutter {
 .gist, .gist-file table tr td {
   border: unset;
 }
+
+/* About me */
+
+.clearfix:after {
+  clear: both;
+  content: ".";
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+* html .clearfix {
+  height: 1%;
+}
+
+*:first-child+html .clearfix {
+  min-height: 1%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}

@@ -25,7 +25,7 @@ description: Political Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Homee: "index"
   Projects:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

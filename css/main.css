@@ -371,10 +371,9 @@ footer .theme-by {
 }
 #main {
   width: 62.0%;
-  margin-left: 40px;
 }
 #sidebar {
-  border: 1px solid #ededed;
+  border: 1px solid #eee;
   width: 32.0%;
 }
 .post-left {

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+subtitle: Peer-reviewed articles, articles under review, work in progress
 ---
 
 ### Peer-Reviewed Articles

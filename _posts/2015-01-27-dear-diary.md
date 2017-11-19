@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Dear diary
+category: blog
 tags: [random, diary, school]
 ---
 

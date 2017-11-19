@@ -6,6 +6,8 @@ subtitle: Published articles, articles under review, work in progress
 
 ### Published Articles
 
+Lloren, Anouk and Reto Wüest. 2016. "Are Opinion Leaders Better Represented?"
+
 ## Articles Under Review
 
 ### Work in Progress

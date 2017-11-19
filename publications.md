@@ -6,9 +6,13 @@ subtitle: Published articles, articles under review, work in progress
 
 ### Published Articles
 
-Lloren, Anouk and Reto Wüest. 2016. "Are Opinion Leaders Better Represented?"
+**Are Opinion Leaders Better Represented?**
+2016.
+Co-authored with Anouk Lloren.
 
-Hug, Simon, Simone Wegmann, and Reto Wüest. 2015. "Parliamentary Voting Procedures in Comparison." _West European Politics_ 38(5): 940-968.
+**Parliamentary Voting Procedures in Comparison.**
+_West European Politics_, 2015, 38(5): 940-968.
+Co-authored with Simon Hug and Simone Wegmann
 
 ### Articles Under Review
 

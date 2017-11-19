@@ -7,12 +7,16 @@ subtitle: Published articles, articles under review, work in progress
 ### Published Articles
 
 **Are Opinion Leaders Better Represented?**
-2016.
+_West European Politics_, 2016, 39(4): 800-834.
 Co-authored with Anouk Lloren.
 
-**Parliamentary Voting Procedures in Comparison.**
+**Parliamentary Voting Procedures in Comparison**
 _West European Politics_, 2015, 38(5): 940-968.
 Co-authored with Simon Hug and Simone Wegmann
+
+**Descriptive and Substantive Representation of Poor Citizens in Switzerland**
+_Swiss Political Science Review_, 2015, 21(2): 254-260.
+Co-authored with Anouk Lloren and Jan Rosset.
 
 ### Articles Under Review
 

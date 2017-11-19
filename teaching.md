@@ -29,10 +29,10 @@ University of Bern, Spring 2010, MA class
 **Introduction to Statistics with Stata**  
 University of Bern, January 2010, Executive MPA
 
-**Empirical Research Methods**
+**Empirical Research Methods**  
 Teaching assistant for Klaus Armingeon.  
 University of Bern, Spring 2009, BA class
 
-**Introduction to Political Science**
+**Introduction to Political Science**  
 Teaching assistant for Klaus Armingeon.  
 University of Bern, Fall 2008, BA class.

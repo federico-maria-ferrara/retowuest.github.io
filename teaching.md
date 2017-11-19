@@ -14,10 +14,12 @@ Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018
 **[International Cooperation and Conflict](http://retowuest.github.io/j2p216/)**  
 University of Geneva, Spring 2016, BA class
 
-**Data Analysis with R**  
+**Empirical Research Methods**  
+Co-taught with Fritz Sager and Eva Thomann.  
 University of Bern, Spring 2012, MA class
 
-**Data Analysis with Stata**  
+**Empirical Research Methods**  
+Co-taught with Fritz Sager and Eva Thomann.  
 University of Bern, Spring 2011, MA class
 
 **Empirical Research Methods**  

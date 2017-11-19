@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Publications
-subtitle: Peer-reviewed articles, articles under review, work in progress
+subtitle: Published articles, articles under review, work in progress
 ---
 
-### Peer-Reviewed Articles
+### Published Articles
 
-### Articles Under Review
+## Articles Under Review
 
 ### Work in Progress
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dear diary
-category: blog
+category: playground
 tags: [random, diary, school]
 ---
 

@@ -8,5 +8,5 @@ subtitle: Current and previous courses
 
 ### Previous Courses
 
-**International Cooperation and Conflict**  
+**[International Cooperation and Conflict](http://retowuest.github.io/j2p216/)**  
 University of Geneva, Spring 2016, BA class

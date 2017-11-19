@@ -9,5 +9,4 @@ subtitle: Current and previous courses
 ### Previous Courses
 
 **International Cooperation and Conflict**  
-University of Geneva  
-Spring 2016, BA class
+University of Geneva, Spring 2016, BA class

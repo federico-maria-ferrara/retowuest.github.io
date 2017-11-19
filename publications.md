@@ -33,10 +33,18 @@ Co-authored with Jonas Pontusson.
 Paper prepared for presentation at the Annual General Conference of the European Political Science Association, Milan, June 22-24, 2017.  
 Co-authored with Philipp Broniecki and Lucas Leemann.
 
+**Legislator Income and Voting Behavior**  
+Paper prepared for presentation at the Annual Meeting of the American Political Science Association, Philadelphia, September 1-4, 2016.  
+Co-authored with Jan Rosset.
+
 **Party Pressure in Roll Call Votes**  
 Paper prepared for presentation at the Annual Meeting of the American Political Science Association, Washington, D.C., August 28-31, 2014.  
 Co-authored with Simon Hug.
 
+**Who Represents the Poor? Evidence from Swiss Direct Democracy**  
+Paper prepared for presentation at the UNIGE-Princeton workshop “Democratic representation in an era of rising economic inequality”, Geneva, June 23-24, 2014.  
+Co-authored with Anouk Lloren.
+
 **Ideological Positions of Party Switchers**  
-Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.
+Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.  
 Co-authored with Simon Hug.

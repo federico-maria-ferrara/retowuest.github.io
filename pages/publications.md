@@ -6,6 +6,9 @@ subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />
+<div class="posts-list">
+</div>
+
 ### Published Articles
 
 **Are Opinion Leaders Better Represented?**  

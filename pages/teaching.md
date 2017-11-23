@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: "teaching"
 title: Teaching
 subtitle: Current and previous courses
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: "publications"
 title: Publications
 subtitle: Published articles, articles under review, work in progress
 ---

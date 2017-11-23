@@ -1,8 +1,7 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
-category: playground
+#image: /img/hello_world.jpeg
 tags: [random, exciting-stuff]
 ---
 

@@ -5,6 +5,7 @@ title: Publications
 subtitle: Published articles, articles under review, work in progress
 ---
 
+<hr />
 ### Published Articles
 
 **Are Opinion Leaders Better Represented?**  

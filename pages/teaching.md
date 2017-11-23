@@ -5,6 +5,7 @@ title: Teaching
 subtitle: Current and previous courses
 ---
 
+<hr />
 ### Current Courses
 
 **Machine Learning for Social Sciences**  

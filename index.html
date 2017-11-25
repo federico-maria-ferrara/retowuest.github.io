@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Reto
+title: Hi, I'm Retoo
 subtitle: Postdoctoral Researcher at the University of Geneva
 use-site-title: true
 ---

@@ -1,17 +1,12 @@
 ---
 layout: page
 permalink: "publications"
-title: Publicationss
+title: Publications
 subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />
 <p>  </p>  
-<p>  </p>  
-<p>  </p>  
-<p>  </p>  
-<p>  </p>  
-<p>  </p>
 
 ### Published Articles
 

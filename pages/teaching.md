@@ -7,7 +7,6 @@ subtitle: Current and previous courses
 
 <hr />
 <p>  </p>
-<p>  </p>
 
 ### Current Courses
 

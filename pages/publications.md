@@ -6,6 +6,7 @@ subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />
+<hr />
 
 ### Published Articles
 
@@ -51,3 +52,8 @@ Co-authored with Anouk Lloren.
 **Ideological Positions of Party Switchers**  
 Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.  
 Co-authored with Simon Hug.
+
+### Book Project
+
+**Media Driven Accountability: The Role of Mass Media for the Monitoring of Governance**  
+Co-authored with Michael Amsler, Chris Ewert, Jofre Rocabert, Michael Strebel, and Bruno Wüest

@@ -10,10 +10,9 @@ subtitle: Current and previous courses
   <article class="post-preview">
 
     <div class="post-entry-container">
-      <h2 class="post-title">Current Courses</h2>
+      <h2 class="post-title">Project</h2>
 
-      <p><strong>Machine Learning for Social Sciences</strong><br />
-      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
+      <p>As of September 2017, I am working as a postdoctoral researcher on the research program Unequal Democracies, directed by Jonas Pontusson and funded by the European Research Council (ERC). The overall goal of the program is to </p>
     </div>
 
   </article>

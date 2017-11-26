@@ -14,15 +14,18 @@ subtitle: Published articles, articles under review, work in progress
 
       <p><strong>Are Opinion Leaders Better Represented?</strong><br />
       <em>West European Politics</em>, 2016, 39(4): 800-834.<br />
-      Co-authored with Anouk Lloren.</p>
+      Co-authored with Anouk Lloren.<br />
+      [<a href="https://doi.org/10.1080/01402382.2015.1125200" target="_blank">Publisher Link</a>] [<a href="http://ssrn.com/abstract=2733045" target="_blank">Preprint</a>]</p>
 
       <p><strong>Parliamentary Voting Procedures in Comparison</strong><br />
       <em>West European Politics</em>, 2015, 38(5): 940-968.<br />
-      Co-authored with Simon Hug and Simone Wegmann.</p>
+      Co-authored with Simon Hug and Simone Wegmann.<br />
+      [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher Link</a>] [<a href="http://ssrn.com/abstract=2321421" target="_blank">Preprint</a>]</p>
 
       <p><strong>Descriptive and Substantive Representation of Poor Citizens in Switzerland</strong><br />
       <em>Swiss Political Science Review</em>, 2015, 21(2): 254-260.<br />
-      Co-authored with Anouk Lloren and Jan Rosset.</p>
+      Co-authored with Anouk Lloren and Jan Rosset.<br />
+      [<a href="http://onlinelibrary.wiley.com/doi/10.1111/spsr.12159/abstract" target="_blank">Publisher Link</a>] [<a href="http://ssrn.com/abstract=2733015" target="_blank">Preprint</a>]</p>
 
       <h2 class="post-title">Articles Under Review</h2>
 

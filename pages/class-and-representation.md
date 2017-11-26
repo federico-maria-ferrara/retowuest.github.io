@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: "class-and-representation"
-title: Teaching
-subtitle: Current and previous courses
+title: Why Are Poor Citizens Underrepresented in Parliament?
+subtitle: Project funded by the Swiss National Science Foundation
 ---
 
 <hr />
@@ -10,10 +10,15 @@ subtitle: Current and previous courses
   <article class="post-preview">
 
     <div class="post-entry-container">
-      <h2 class="post-title">Current Courses</h2>
+      <h2 class="post-title">Project</h2>
 
-      <p><strong>Machine Learning for Social Sciences</strong><br />
-      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
+      <p>Since September 2016, I am working as a postdoctoral researcher on the research project "Why Are Poor Citizens Underrepresented in Parliament?," directed by Jonas Pontusson and funded by the Swiss National Science Foundation (SNSF). </p>
+
+      <h2 class="post-title">My Research for the Project</h2>
+
+      <h2 class="post-title">Outputs</h2>
+
+
     </div>
 
   </article>

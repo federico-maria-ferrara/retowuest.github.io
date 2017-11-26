@@ -9,7 +9,7 @@ layout: default
   {% for tag in post.tags %}
   {% if tag == page.tag %}
   <article class="post-preview">
-    <a href="retowuest.github.io/playground">
+    <a href="{{ post.url | prepend: site.baseurl }}">
       <h3 class="post-title">{{ post.title }}</h3>
 
       {% if post.subtitle %}

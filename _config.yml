@@ -27,8 +27,8 @@ description: Political Scientist
 navbar-links:
   Home: ""
   Projects:
-    - Class and Representation: "http://deanattali.com/beautiful-jekyll/"
-    - Unequal Democracies: "https://pages.github.com/"
+    - Class and Representation: "class-and-representation"
+    - Unequal Democracies: "unequal-democracies"
     - Playground: "blog"
   Publications: "publications"
   Teaching: "teaching"

@@ -25,7 +25,7 @@ description: Political Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
+  Home: "https://retowuest.github.io/"
   Projects:
     - Class and Representation: "http://deanattali.com/beautiful-jekyll/"
     - Unequal Democracies: "https://pages.github.com/"

@@ -6,9 +6,7 @@ subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />
-<p>  </p>  
-
-### Published Articles
+<h2 class="post-title">Published Articles</h2>
 
 **Are Opinion Leaders Better Represented?**  
 _West European Politics_, 2016, 39(4): 800-834.  

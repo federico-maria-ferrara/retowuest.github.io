@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hi, I'm Reto
+title: Hi, I'm Retoo
 subtitle: Postdoctoral Researcher at the University of Geneva
 use-site-title: true
 ---
@@ -8,6 +8,7 @@ use-site-title: true
 <hr />
 <div class="posts-list">
   <article class="post-preview">
+
     <div class="post-entry-container">
       <div id="main" class="post-left">
         I am a postdoctoral researcher in the <a href="http://unige.ch/sciences-societe/speri/">Department of Political Science and International Relations</a> at the <a href="http://www.unige.ch/">University of Geneva</a>. After predoctoral research stays in the <a href="http://www.princeton.edu/politics/">Department of Politics</a> at <a href="http://www.princeton.edu/main/">Princeton University</a> and the <a href="http://politics.as.nyu.edu/page/home">Department of Politics</a> at <a href="http://www.nyu.edu/">New York University</a>, I received my PhD from the <a href="http://www.unige.ch/">University of Geneva</a> in 2016.
@@ -23,5 +24,5 @@ use-site-title: true
       </div>
     </div>
 
-   </article>
+  </article>
 </div>

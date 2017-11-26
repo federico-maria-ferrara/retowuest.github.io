@@ -11,14 +11,14 @@ subtitle: Published articles, articles under review, work in progress
 
     <div class="post-entry-container">
       <h2 class="post-title">Published Articles</h2>
+
+      <b>Are Opinion Leaders Better Represented?</b><br />
+      <i>West European Politics</i>, 2016, 39(4): 800-834.<br />
+      Co-authored with Anouk Lloren.
     </div>
 
   </article>
 </div>
-
-**Are Opinion Leaders Better Represented?**  
-_West European Politics_, 2016, 39(4): 800-834.  
-Co-authored with Anouk Lloren.
 
 **Parliamentary Voting Procedures in Comparison**  
 _West European Politics_, 2015, 38(5): 940-968.  

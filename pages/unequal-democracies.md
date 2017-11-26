@@ -16,11 +16,11 @@ subtitle: Research program funded by the European Research Council
 
       <h2 class="post-title">My Research for the Program</h2>
 
-      My research for the program focuses on three aspects of income bias in political representation. First, 
+      <p>My research for the program focuses on three aspects of income bias in political representation. First, .</p>
 
       <h2 class="post-title">Outputs</h2>
 
-      Coming soon.
+      <p>Coming soon.</p>
     </div>
 
   </article>

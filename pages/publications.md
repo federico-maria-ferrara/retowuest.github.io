@@ -49,16 +49,17 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Party Pressure in Roll Call Votes</strong><br />
       Paper prepared for presentation at the Annual Meeting of the American Political Science Association, Washington, D.C., August 28-31, 2014.<br />
       Co-authored with Simon Hug.<br />
-      <a href="http://ssrn.com/abstract=2453305" target="_blank">[Working paper]</a></p>
+      <a href="https://ssrn.com/abstract=2453305" target="_blank">[Working paper PDF]</a></p>
 
       <p><strong>Who Represents the Poor? Evidence from Swiss Direct Democracy</strong><br />
       Paper prepared for presentation at the UNIGE-Princeton workshop “Democratic representation in an era of rising economic inequality”, Geneva, June 23-24, 2014.<br />
-      Co-authored with Anouk Lloren.</p>
+      Co-authored with Anouk Lloren.<br />
+      <a href="https://ssrn.com/abstract=2321442" target="_blank">[Working paper PDF]</a></p>
 
       <p><strong>Ideological Positions of Party Switchers</strong><br />
       Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.<br />
       Co-authored with Simon Hug.<br />
-      <a href="http://ssrn.com/abstract=2321416" target="_blank">[Working paper]</a></p>
+      <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
 
       <h2 class="post-title">Book Project</h2>
 

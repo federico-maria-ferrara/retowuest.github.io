@@ -6,7 +6,9 @@ subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />
-<h2 class="post-title">Published Articles</h2>
+<div class="posts-list">
+  <article class="post-preview">
+    <h2 class="post-title">Published Articles</h2>
 
 **Are Opinion Leaders Better Represented?**  
 _West European Politics_, 2016, 39(4): 800-834.  
@@ -55,3 +57,6 @@ Co-authored with Simon Hug.
 
 **Media Driven Accountability: The Role of Mass Media for the Monitoring of Governance**  
 Co-authored with Michael Amsler, Chris Ewert, Jofre Rocabert, Michael Strebel, and Bruno Wüest
+
+</article>
+</div>

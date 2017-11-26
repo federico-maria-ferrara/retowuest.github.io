@@ -12,7 +12,7 @@ subtitle: Research program funded by the European Research Council
     <div class="post-entry-container">
       <h2 class="post-title">The Program</h2>
 
-      <p>Since September 2017, I am working as a postdoctoral researcher on the research program "Unequal Democracies," directed by Jonas Pontusson and funded by the European Research Council (ERC). The goal of the program is to explore how rising income and wealth inequality affects democratic politics. To do so, the program aims to bring together two distinct literatures: the literature on how inequality affects the policy preferences of different citizens and the literature on the effects of inequality on the responsiveness of parties and governments to the policy preferences of different citizens. Please visit the <a href="https://unequaldemocracies.unige.ch/en/home/">program website</a> for more information.</p>
+      <p>Since September 2017, I am working as a postdoctoral researcher on the research program "Unequal Democracies," directed by Jonas Pontusson and funded by the European Research Council (ERC). The goal of the program is to explore how rising income and wealth inequality affects democratic politics. To do so, it aims to bring together two distinct streams of research: the research on how inequality affects the policy preferences of different citizens and the research on the effects of inequality on the responsiveness of parties and governments to the policy preferences of different citizens. Please visit the <a href="https://unequaldemocracies.unige.ch/en/home/">program website</a> for more information.</p>
 
       <h2 class="post-title">My Research for the Program</h2>
 

@@ -13,6 +13,10 @@ subtitle: Current and previous courses
       <h2 class="post-title">Project</h2>
 
       <p>As of September 2017, I am working as a postdoctoral researcher on the research program Unequal Democracies, directed by Jonas Pontusson and funded by the European Research Council (ERC). The overall goal of the program is to . Please visit the <a href="https://unequaldemocracies.unige.ch/en/home/">program website</a> for more information.</p>
+
+      <h2 class="post-title">My Research for the Project</h2>
+
+      
     </div>
 
   </article>

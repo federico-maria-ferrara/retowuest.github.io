@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: "class-and-representation"
-title: Why Are Poor Citizens Underrepresented in Parliament?
+title: Class and Representation
 subtitle: Project funded by the Swiss National Science Foundation
 ---
 

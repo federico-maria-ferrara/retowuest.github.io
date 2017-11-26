@@ -6,37 +6,43 @@ subtitle: Current and previous courses
 ---
 
 <hr />
-<p>  </p>
+<div class="posts-list">
+  <article class="post-preview">
 
-### Current Courses
+    <div class="post-entry-container">
+      <h2 class="post-title">Current Courses</h2>
 
-**Machine Learning for Social Sciences**  
-Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.
+      <p><strong>Machine Learning for Social Sciences</strong><br />
+      Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
 
-### Previous Courses
+      <h2 class="post-title">Previous Courses</h2>
 
-**[International Cooperation and Conflict](http://retowuest.github.io/j2p216/)**  
-University of Geneva, Spring 2016, BA class.
+      <p><strong><a href="http://retowuest.github.io/j2p216/">International Cooperation and Conflict</a></strong><br />
+      University of Geneva, Spring 2016, BA class.</p>
 
-**Empirical Research Methods**  
-Co-taught with Fritz Sager and Eva Thomann.  
-University of Bern, Spring 2012, MA class.
+      <p><strong>Empirical Research Methods</strong><br />
+      Co-taught with Fritz Sager and Eva Thomann.<br />
+      University of Bern, Spring 2012, MA class.</p>
 
-**Empirical Research Methods**  
-Co-taught with Fritz Sager and Eva Thomann.  
-University of Bern, Spring 2011, MA class.
+      <p><strong>Empirical Research Methods</strong><br />
+      Co-taught with Fritz Sager and Eva Thomann.<br />
+      University of Bern, Spring 2011, MA class.</p>
 
-**Empirical Research Methods**  
-Co-taught with Fritz Sager and Christine Zollinger.  
-University of Bern, Spring 2010, MA class.
+      <p><strong>Empirical Research Methods</strong><br />
+      Co-taught with Fritz Sager and Christine Zollinger.<br />
+      University of Bern, Spring 2010, MA class.</p>
 
-**Introduction to Statistics with Stata**  
-University of Bern, January 2010, Executive MPA.
+      <p><strong>Introduction to Statistics with Stata</strong><br />
+      University of Bern, January 2010, Executive MPA.</p>
 
-**Empirical Research Methods**  
-Teaching assistant for Klaus Armingeon.  
-University of Bern, Spring 2009, BA class.
+      <p><strong>Empirical Research Methods</strong><br />
+      Teaching assistant for Klaus Armingeon.<br />
+      University of Bern, Spring 2009, BA class.</p>
 
-**Introduction to Political Science**  
-Teaching assistant for Klaus Armingeon.  
-University of Bern, Fall 2008, BA class.
+      <p><strong>Introduction to Political Science</strong><br />
+      Teaching assistant for Klaus Armingeon.<br />
+      University of Bern, Fall 2008, BA class.</p>
+    </div>
+
+  </article>
+</div>

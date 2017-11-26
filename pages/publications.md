@@ -54,12 +54,12 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Ideological Positions of Party Switchers</strong><br />
       Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.<br />
       Co-authored with Simon Hug.</p>
+
+      <h2 class="post-title">Book Project</h2>
+
+      <p><strong>Media Driven Accountability: The Role of Mass Media for the Monitoring of Governance</strong><br />
+      Co-authored with Michael Amsler, Chris Ewert, Jofre Rocabert, Michael Strebel, and Bruno Wüest</p>
     </div>
-
-    <h2 class="post-title">Book Project</h2>
-
-    <p><strong>Media Driven Accountability: The Role of Mass Media for the Monitoring of Governance</strong><br />
-    Co-authored with Michael Amsler, Chris Ewert, Jofre Rocabert, Michael Strebel, and Bruno Wüest</p>
 
   </article>
 </div>

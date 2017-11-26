@@ -16,7 +16,7 @@ subtitle: Research program funded by the European Research Council
 
       <h2 class="post-title">My Research for the Program</h2>
 
-      <p>While recent research has shown that income bias in government responsiveness is a pervasive feature of contemporary democracies, little is known about the causal mechanisms behind this phenomenon. Income bias might be due to inequality in electoral turnout and other forms of political participation, disproportionate influence of wealthy individuals on policy, and the fact that elected representatives tend to be individuals with relatively high levels of education, occupational status, and income (“descriptive misrepresentation”).</p>
+      <p>While recent research has shown that income bias in government responsiveness is a pervasive feature of contemporary democracies, little is known about the causal mechanisms behind this phenomenon. Income bias might be due to inequality in electoral turnout and other forms of political participation, disproportionate influence of wealthy individuals on policy, and the fact that elected representatives tend to be individuals with relatively high levels of education, occupational status, and income ("descriptive misrepresentation").</p>
 
       <h2 class="post-title">Outputs</h2>
 

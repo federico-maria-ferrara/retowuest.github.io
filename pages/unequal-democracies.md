@@ -18,7 +18,7 @@ subtitle: Research program funded by the European Research Council
 
       <h2 class="post-title">Outputs</h2>
 
-
+      Coming soon.
     </div>
 
   </article>

@@ -2,7 +2,7 @@
 layout: page
 permalink: "publications"
 title: Publications
-subtitle: Published Articles, Articles Under Review, Work in Progress
+subtitle: Published articles, articles under review, work in progress
 ---
 
 <hr />

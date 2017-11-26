@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Reto
-subtitle: Postdoctoral Researcher at the University of Geneva
+subtitle: Postdoctoral researcher at the University of Geneva
 use-site-title: true
 ---
 

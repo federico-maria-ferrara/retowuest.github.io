@@ -2,7 +2,7 @@
 layout: page
 permalink: "unequal-democracies"
 title: Unequal Democracies
-subtitle: Project Funded by the European Research Council
+subtitle: Project funded by the European Research Council
 ---
 
 <hr />

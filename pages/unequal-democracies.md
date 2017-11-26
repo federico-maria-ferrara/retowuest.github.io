@@ -16,6 +16,8 @@ subtitle: Current and previous courses
 
       <h2 class="post-title">My Research for the Project</h2>
 
+      <h2 class="post-title">Outputs</h2>
+
       
     </div>
 

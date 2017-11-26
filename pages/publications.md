@@ -20,7 +20,7 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Parliamentary Voting Procedures in Comparison</strong><br />
       <em>West European Politics</em>, 2015, 38(5): 940-968.<br />
       Co-authored with Simon Hug and Simone Wegmann.<br />
-      [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher Link</a>] [<a href="http://ssrn.com/abstract=2321421" target="_blank">Preprint</a>]</p>
+      [<a href="https://doi.org/10.1080/01402382.2015.1045290" target="_blank">Publisher Link</a>] [<a href="http://ssrn.com/abstract=2321421" target="_blank">Preprint</a>] [<a href="replication/replication-materials-pvpic.zip" target="_blank">Replication materials</a>]</p>
 
       <p><strong>Descriptive and Substantive Representation of Poor Citizens in Switzerland</strong><br />
       <em>Swiss Political Science Review</em>, 2015, 21(2): 254-260.<br />

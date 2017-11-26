@@ -2,7 +2,7 @@
 layout: page
 permalink: "class-and-representation"
 title: Class and Representation
-subtitle: Project funded by the Swiss National Science Foundation
+subtitle: Research project funded by the Swiss National Science Foundation
 ---
 
 <hr />

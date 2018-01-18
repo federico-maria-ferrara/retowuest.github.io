@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reto Wüest
-subtitle: Postdoctoral researcher at the University of Geneva
+subtitle: Postdoctoral researcher at the University of GenevaA
 use-site-title: true
 ---
 
@@ -19,7 +19,7 @@ use-site-title: true
 
       <div id="sidebar" class="post-right">
         <div id="profile">
-					<img src="img/profile_pic.jpg" alt="Photo" style="width:200px; height:300px">
+					<img src="img/profile_pic.jpg" alt="Photo" style="width:200px; height:250px">
 				</div>
       </div>
     </div>

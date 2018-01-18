@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reto Wüest
-subtitle: Postdoctoral researcher at the University of Geneva
+subtitle: Postdoctoral researcher at the University of GenevaA
 use-site-title: true
 ---
 

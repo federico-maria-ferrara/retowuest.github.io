@@ -16,7 +16,7 @@ subtitle: Research project funded by the Swiss National Science Foundation
 
       <h2 class="post-title">Outputs</h2>
 
-
+      <p>Coming soon.</p>
     </div>
 
   </article>

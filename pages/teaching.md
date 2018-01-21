@@ -17,7 +17,7 @@ subtitle: Current and previous courses
 
       <p><strong><a href="http://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />
       Co-taught with Andrew Peterson.<br />
-      University of Geneva, Spring 2018, PhD students.</p>
+      University of Geneva, Spring 2018, Short course for PhD students.</p>
 
       <h2 class="post-title">Previous Courses</h2>
 

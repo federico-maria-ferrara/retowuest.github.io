@@ -16,7 +16,6 @@ subtitle: Current and previous courses
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
 
       <p><strong><a href="http://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />
-      Co-taught with Andrew Peterson.<br />
       University of Geneva, Spring 2018, Short course for PhD students.</p>
 
       <h2 class="post-title">Previous Courses</h2>

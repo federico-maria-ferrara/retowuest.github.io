@@ -38,26 +38,21 @@ subtitle: Published articles, articles under review, work in progress
       Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
 
       <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
-      Paper prepared for presentation at the Annual General Conference of the European Political Science Association, Milan, June 22-24, 2017.<br />
       Co-authored with Philipp Broniecki and Lucas Leemann.</p>
 
       <p><strong>Legislator Income and Voting Behavior</strong><br />
-      Paper prepared for presentation at the Annual Meeting of the American Political Science Association, Philadelphia, September 1-4, 2016.<br />
       Co-authored with Jan Rosset.<br />
       <a href="https://ssrn.com/abstract=3077584" target="_blank">[Working paper PDF]</a></p>
 
       <p><strong>Party Pressure in Roll Call Votes</strong><br />
-      Paper prepared for presentation at the Annual Meeting of the American Political Science Association, Washington, D.C., August 28-31, 2014.<br />
       Co-authored with Simon Hug.<br />
       <a href="https://ssrn.com/abstract=2453305" target="_blank">[Working paper PDF]</a></p>
 
       <p><strong>Who Represents the Poor? Evidence from Swiss Direct Democracy</strong><br />
-      Paper prepared for presentation at the UNIGE-Princeton workshop “Democratic representation in an era of rising economic inequality”, Geneva, June 23-24, 2014.<br />
       Co-authored with Anouk Lloren.<br />
       <a href="https://ssrn.com/abstract=2321442" target="_blank">[Working paper PDF]</a></p>
 
       <p><strong>Ideological Positions of Party Switchers</strong><br />
-      Paper prepared for presentation at the Annual Conference of the Midwest Political Science Association, Chicago, April 12-15, 2012.<br />
       Co-authored with Simon Hug.<br />
       <a href="https://ssrn.com/abstract=2321416" target="_blank">[Working paper PDF]</a></p>
 

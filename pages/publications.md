@@ -29,15 +29,13 @@ subtitle: Published articles, articles under review, work in progress
 
       <h2 class="post-title">Articles Under Review</h2>
 
-      <p><strong>Technocracy or Democracy? European Citizens’ Perceptions of Expert Rule</strong><br />
-      Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
+      <p><strong>Descriptive Misrepresentation by Social Class: Do Voter Preferences Matter?</strong><br />
+      Co-authored with Jonas Pontusson.</p>
 
       <h2 class="post-title">Work in Progress</h2>
 
-      <p><strong>Do Citizens Prefer Affluent Representatives? Evidence from a Survey Experiment in Switzerland</strong><br />
-      Paper prepared for presentation at the 4th Conference of the ECPR Standing Group on Parliaments, Basel, June 29-July 1, 2017.<br />
-      Co-authored with Jonas Pontusson.<br />
-      <a href="https://ssrn.com/abstract=3077598" target="_blank">[Working paper PDF]</a></p>
+      <p><strong>Technocracy or Democracy? European Citizens' Perceptions of Expert Rule</strong><br />
+      Co-authored with Tina Freyburg, Ivo Krizic, and Sandra Lavenex.</p>
 
       <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
       Paper prepared for presentation at the Annual General Conference of the European Political Science Association, Milan, June 22-24, 2017.<br />

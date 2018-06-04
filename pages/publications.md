@@ -40,6 +40,9 @@ subtitle: Published articles, articles under review, work in progress
       <p><strong>Do Parties Dislike Working-Class Candidates?</strong><br />
       Co-authored with Jonas Pontusson.</p>
 
+      <p><strong>The Representation of Social Classes in European Parliaments</strong><br />
+      Co-authored with Jonas Pontusson.</p>
+
       <p><strong>Improving Multilevel Regression with Post-Stratification Through Optimal Model Selection</strong><br />
       Co-authored with Philipp Broniecki and Lucas Leemann.</p>
 

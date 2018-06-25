@@ -12,7 +12,7 @@ subtitle: Current and previous courses
     <div class="post-entry-container">
       <h2 class="post-title">Current Courses</h2>
 
-      <p><strong>Machine Learning for Social Sciences</strong><br />
+      <p><strong><a href="http://retowuest.net/recsm-2018/">Machine Learning for Social Sciences</a></strong><br />
       Pompeu Fabra University, RECSM Summer School in Survey Methodology, 2018.</p>
 
       <p><strong><a href="http://retowuest.github.io/ml2018/">Introduction to Machine Learning</a></strong><br />

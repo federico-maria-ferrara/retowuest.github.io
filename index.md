@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reto Wüest
-subtitle: Postdoctoral researcher at the University of Geneva
+title: Federico Maria Ferrara
+subtitle: Ph.D. Candidate at the University of Geneva
 use-site-title: true
 ---
 
